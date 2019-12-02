@@ -1,0 +1,4 @@
+﻿  Group.cpp
+C:\Users\Толя\source\repos\OOP_LAB_1_ver3\OOP_LAB_1_ver3\Group.cpp(52,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Толя\source\repos\OOP_LAB_1_ver3\OOP_LAB_1_ver3\Group.cpp(36): warning C4715: Group::AcceptAddToGroup: значение возвращается не при всех путях выполнения
+  OOP_LAB_1_ver3.vcxproj -> C:\Users\Толя\source\repos\OOP_LAB_1_ver3\Debug\OOP_LAB_1_ver3.exe
